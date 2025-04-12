@@ -19,4 +19,4 @@ When a ball gets within a certain range, it instantly triggers a parry action!
 
 The project was originally written in Python, then compiled into a standalone .exe file for easy use.
 
-Note: This project is for educational purposes only. Use responsibly.
+Note: This project is safe to use you will not get banned by using it.
