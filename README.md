@@ -19,6 +19,9 @@ When a ball gets within a certain range, it instantly triggers a parry action!
 
 The project was originally written in Python, then compiled into a standalone .exe file for easy use.
 
+![blade-ball-script-auto-parry](https://github.com/user-attachments/assets/25a331f9-2070-46c8-83ac-01bc431145fc)
+
+
 Note: This project is safe to use you will not get banned by using it.
 
 # Virus checker
