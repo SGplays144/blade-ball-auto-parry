@@ -22,7 +22,8 @@ The project was originally written in Python.
 ![blade-ball-script-auto-parry](https://github.com/user-attachments/assets/25a331f9-2070-46c8-83ac-01bc431145fc)
 
 
-Note: This script is not signed with a trusted certificate, so you will receive a warning. To avoid this, right-click on launcher.bat, select Properties, check Unblock at the bottom if available, click Apply, and then click ok
+# Important
+This script is not signed with a trusted certificate, so you will receive a warning. To avoid this, right-click on launcher.bat, select Properties, check Unblock at the bottom if available, click Apply, and then click ok
 
 # Virus checker
 If you dont trust this file you can test it by your self with these malware testers there should only show python detected.
