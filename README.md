@@ -20,3 +20,8 @@ When a ball gets within a certain range, it instantly triggers a parry action!
 The project was originally written in Python, then compiled into a standalone .exe file for easy use.
 
 Note: This project is safe to use you will not get banned by using it.
+
+# Virus checker
+If you dont trust this file you can test it by your self with these malware testers there should only show python detected.
+https://internxt.com/virus-scanner
+https://virusscan.jotti.org/
