@@ -1,6 +1,6 @@
 # blade-ball-auto-parry
-Blade Ball Auto Parry (Python → EXE)
-🎯 An automatic parry system for Blade Ball — written in Python and compiled into a standalone EXE!
+Blade Ball Auto Parry (Python)
+🎯 An automatic parry system for Blade Ball — written in Python!
 
 ✨ Features
 Automatically detects when a ball gets close
@@ -17,7 +17,7 @@ Delivered as a ready-to-use .exe file
 The script continuously monitors the distance between your character and incoming balls.
 When a ball gets within a certain range, it instantly triggers a parry action!
 
-The project was originally written in Python, then compiled into a standalone .exe file for easy use.
+The project was originally written in Python.
 
 ![blade-ball-script-auto-parry](https://github.com/user-attachments/assets/25a331f9-2070-46c8-83ac-01bc431145fc)
 
