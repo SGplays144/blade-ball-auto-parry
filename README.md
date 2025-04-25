@@ -14,7 +14,7 @@ Lightweight and efficient — no need to install Python to run it
 Delivered as a ready-to-use .exe file
 
 🚀 How It Works
-The script continuously monitors the distance between your character and incoming balls.
+The script continuously monitors the distance between your character and incoming ball.
 When a ball gets within a certain range, it instantly triggers a parry action!
 
 # Install
