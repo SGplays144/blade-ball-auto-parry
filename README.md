@@ -32,4 +32,3 @@ This script is not signed with a trusted certificate, so you will receive a warn
 If you dont trust this file you can test it by your self with these malware testers there should only show python detected.
 https://internxt.com/virus-scanner
 https://virusscan.jotti.org/
-it's showing some extra things because the new update of blade ball
